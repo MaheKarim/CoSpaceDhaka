@@ -1,6 +1,5 @@
 <p align="center"> <br>
 
-![footer-logo](https://user-images.githubusercontent.com/16819523/75205426-f0397200-579d-11ea-9359-924165583666.png)
 
 </p>
 
